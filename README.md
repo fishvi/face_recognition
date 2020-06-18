@@ -5,7 +5,7 @@
 &emsp;&emsp;&emsp;&emsp;python 3.7.3  
 &emsp;&emsp;&emsp;&emsp;opencv 4.2.0.34  
 &emsp;&emsp;&emsp;&emsp;dlib 19.20.0  
-&emsp;&emsp;&emsp;&emsp;[face_recognition](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md) 1.3.0  
+&emsp;&emsp;&emsp;&emsp;[face_recognition](https://github.com/ageitgey/face_recognition) 1.3.0  
 <br/>
 <br/>
 <p><strong>1.&ensp;<a href="https://github.com/fishvi/face_recognition/blob/master/load.py">load.py</a></strong> <br>
