@@ -25,6 +25,7 @@
 <p><strong>2.&ensp;<a href="https://github.com/fishvi/face_recognition/blob/master/face.py">face.py</a></strong> <br>
 
 &emsp;&emsp;用于进行人脸识别，找到照片中的人脸并显示对应的姓名，姓名为录入时所输入的姓名，识别到未录入的人脸会显示“未识别”。</p>
+&emsp;&emsp;同理，在face_recognition.face_locations()中加上参数model='cnn'会显著提高准确率，但需要开启GPU加速</p>
  <br/>
  <br/>
 <p><strong>3.&ensp;images</strong></p>
