@@ -30,7 +30,7 @@
  <br/>
 <p><strong>3.&ensp;images</strong></p>
 
-<p>&emsp;&emsp;该文件夹用于存储照片，照片命名即为人脸名字。</p>
+<p>&emsp;&emsp;该文件夹用于存储照片，照片命名即为人脸姓名。</p>
  <br/>
  <br/>
  <p><strong>4.&ensp;face_names.pkl</strong></p>
