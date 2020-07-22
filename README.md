@@ -1,5 +1,5 @@
 # face_recognition
-#### 基于open cv和face_recognition的人脸识别
+#### 基于OpenCv和face_recognition的人脸识别
 ---
 环境：&emsp;Win10  
 &emsp;&emsp;&emsp;&emsp;Python 3.7.3  
@@ -17,9 +17,9 @@
   &emsp;&emsp;"正在编码第1张照片..." <br>
   &emsp;&emsp;"*第1张照片已编码完成" <br>
   只有出现“第n张照片已编码完成"，才算在第n张照片中找到人脸并编码成功。
-  否则请重新拍照，直至提示编码完成。 <br>
-  在face_recognition.face_locations()中加上参数model='cnn'会显著提高准确率，但需要开启GPU加速。  </p>
+  否则请重新拍照，直至提示已编码完成。 <br>
 </blockquote>
+&emsp;&emsp;在face_recognition.face_locations()中加上参数model='cnn'会显著提高准确率，但需要开启GPU加速。</p>
  <br/>
  <br/>
 <p><strong>2.&ensp;<a href="https://github.com/fishvi/face_recognition/blob/master/face.py">face.py</a></strong> <br>
