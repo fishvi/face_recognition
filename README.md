@@ -2,8 +2,8 @@
 #### 基于open cv和face_recognition的人脸识别
 ---
 环境：&emsp;Win10  
-&emsp;&emsp;&emsp;&emsp;python 3.7.3  
-&emsp;&emsp;&emsp;&emsp;opencv 4.2.0.34  
+&emsp;&emsp;&emsp;&emsp;Python 3.7.3  
+&emsp;&emsp;&emsp;&emsp;OpenCv 4.2.0.34  
 &emsp;&emsp;&emsp;&emsp;dlib 19.20.0  
 &emsp;&emsp;&emsp;&emsp;[face_recognition](https://github.com/ageitgey/face_recognition) 1.3.0  
 <br/>
@@ -16,7 +16,7 @@
   <p>注意： <br>
   &emsp;&emsp;"正在编码第1张照片..." <br>
   &emsp;&emsp;"*第1张照片已编码完成" <br>
-  只有出现“第n张照片已编码完成",才算在第n张照片中找到人脸并编码
+  只有出现“第n张照片已编码完成"，才算在第n张照片中找到人脸并编码成功。
   否则请重新拍照，直至提示编码完成 <br>
   在face_recognition.face_locations()中加上参数model='cnn'会显著提高准确率，但需要开启GPU加速  </p>
 </blockquote>
